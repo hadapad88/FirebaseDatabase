@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052827336950",
+    "firebase_url": "https://fir-database-ce98a.firebaseio.com",
+    "project_id": "fir-database-ce98a",
+    "storage_bucket": "fir-database-ce98a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052827336950:android:65477339613f1dca34acd7",
+        "android_client_info": {
+          "package_name": "com.firebase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052827336950-7vih5itnsevrdcj9rodf1cupa3nsgm41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHodoE-31naPqgLDg9akFssNhHHgsSqHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052827336950-7vih5itnsevrdcj9rodf1cupa3nsgm41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
